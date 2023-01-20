@@ -5,7 +5,7 @@ Projeto desenvolvido em sala de aula durante as aulas do Curso Técnico de Desen
 </p>
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/111576636/213596313-0b433022-9bff-4b7b-9ee1-c6a911c068a0.png)"/>
+<img src="![image](https://user-images.githubusercontent.com/111576636/213596389-329bb503-2e41-4748-9287-82f5ca430de9.png)"/>
 </p>
 
 <p align="center">

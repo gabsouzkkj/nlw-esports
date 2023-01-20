@@ -5,7 +5,7 @@ Projeto desenvolvido em sala de aula durante as aulas do Curso Técnico de Desen
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)"/>
+<img src="![image](https://user-images.githubusercontent.com/111576636/213596313-0b433022-9bff-4b7b-9ee1-c6a911c068a0.png)"/>
 </p>
 
 <p align="center">

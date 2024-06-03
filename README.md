@@ -17,8 +17,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-![image](![image](https://github.com/gabsouzkkj/nlw-esports/assets/111576636/05b242b2-3b19-4366-a9a5-08e469eff14f))
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
